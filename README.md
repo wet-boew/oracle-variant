@@ -1,4 +1,8 @@
-﻿Ce fichier explique comment migrer le thème apex WET BOEW.
+Intégrer le thème de la BOEW pour Apex de Oracle
+
+----
+
+Ce fichier explique comment migrer le thème apex WET BOEW.
 
 Voici quelques choses que vous devez savoir:
 
